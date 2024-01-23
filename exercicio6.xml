@@ -1,0 +1,98 @@
+
+<Preferencias>
+    <Filmes>
+        <Filme>
+            <Titulo>Matrix</Titulo>
+            <AnoLancamento>1999</AnoLancamento>
+            <ElencoPrincipal>
+                <Ator>Keanu Reeves</Ator>
+                <Ator>Laurence Fishburne</Ator>
+                <Ator>Carrie-Anne Moss</Ator>
+            </ElencoPrincipal>
+            <Tipo>Aventura, Ficção Científica</Tipo>
+            <Sinopse>O jovem programador Thomas Anderson é atormentado por estranhos pesadelos em que está sempre conectado por cabos a um imenso sistema de computadores do futuro.</Sinopse>
+        </Filme>
+        <Filme>
+            <Titulo>A Fuga das Galinhas</Titulo>
+            <AnoLancamento>2000</AnoLancamento>
+            <ElencoPrincipal>
+                <Ator>Vozes de Julia Sawalha</Ator>
+                <Ator>Vozes de Mel Gibson</Ator>
+            </ElencoPrincipal>
+            <Tipo>Animação, Comédia</Tipo>
+            <Sinopse>Galinhas de uma fazenda planejam uma fuga ousada para evitar serem transformadas em tortas de frango.</Sinopse>
+        </Filme>
+        <Filme>
+            <Titulo>Homem-Aranha 1</Titulo>
+            <AnoLancamento>2002</AnoLancamento>
+            <ElencoPrincipal>
+                <Ator>Tobey Maguire</Ator>
+                <Ator>Kirsten Dunst</Ator>
+                <Ator>Willem Dafoe</Ator>
+            </ElencoPrincipal>
+            <Tipo>Ação, Aventura</Tipo>
+            <Sinopse>Após ser picado por uma aranha geneticamente modificada, um jovem tímido ganha superpoderes e se torna o Homem-Aranha.</Sinopse>
+        </Filme>
+    </Filmes>
+
+    <Livros>
+        <Livro>
+            <Titulo>Essencialismo</Titulo>
+            <Autor>Greg McKeown</Autor>
+            <AnoLancamento>2014</AnoLancamento>
+            <Tipo>Não-ficção, Autoajuda</Tipo>
+            <NumeroPaginas>272</NumeroPaginas>
+        </Livro>
+        <Livro>
+            <Titulo>A Revolução dos Bichos</Titulo>
+            <Autor>George Orwell</Autor>
+            <AnoLancamento>1945</AnoLancamento>
+            <Tipo>Ficção, Sátira Política</Tipo>
+            <NumeroPaginas>112</NumeroPaginas>
+        </Livro>
+        <Livro>
+            <Titulo>O Mundo de Sofia</Titulo>
+            <Autor>Jostein Gaarder</Autor>
+            <AnoLancamento>1991</AnoLancamento>
+            <Tipo>Filosofia, Romance</Tipo>
+            <NumeroPaginas>560</NumeroPaginas>
+        </Livro>
+    </Livros>
+
+    <Comidas>
+        <Comida>
+            <Nome>Frango à Parmegiana</Nome>
+            <Ingredientes>
+                <Ingrediente1>Peito de frango</Ingrediente1>
+                <Ingrediente2>Farinha de trigo</Ingrediente2>
+                <Ingrediente3>Ovos</Ingrediente3>
+                <Ingrediente4>Farinha de rosca</Ingrediente4>
+                <Ingrediente5>Molho de tomate</Ingrediente5>
+                <Ingrediente6>Queijo muçarela</Ingrediente6>
+                <Ingrediente7>Óleo para fritar</Ingrediente7>
+                <Ingrediente8>Sal e pimenta</Ingrediente8>
+            </Ingredientes>
+        </Comida>
+        <Comida>
+            <Nome>Pudim de Leite Condensado</Nome>
+            <Ingredientes>
+                <Ingrediente1>Leite condensado</Ingrediente1>
+                <Ingrediente2>Leite</Ingrediente2>
+                <Ingrediente3>Ovos</Ingrediente3>
+                <Ingrediente4>Açúcar para a calda</Ingrediente4>
+            </Ingredientes>
+        </Comida>
+        <Comida>
+            <Nome>Bolo de Cenoura</Nome>
+            <Ingredientes>
+                <Ingrediente1>Cenouras</Ingrediente1>
+                <Ingrediente2>Farinha de trigo</Ingrediente2>
+                <Ingrediente3>Açúcar</Ingrediente3>
+                <Ingrediente4>Óleo</Ingrediente4>
+                <Ingrediente5>Ovos</Ingrediente5>
+                <Ingrediente6>Fermento em pó</Ingrediente6>
+            </Ingredientes>
+        </Comida>
+    </comida>
+
+</Preferencias>
