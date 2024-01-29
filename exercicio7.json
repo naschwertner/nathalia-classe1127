@@ -1,0 +1,94 @@
+{
+    "Filmes": [
+        {
+            "Titulo": "Matrix",
+            "AnoLancamento": 1999,
+            "ElencoPrincipal": [
+                "Keanu Reeves",
+                "Laurence Fishburne",
+                "Carrie-Anne Moss"
+            ],
+            "Tipo": "Aventura, Fic\u00e7\u00e3o Cient\u00edfica",
+            "Sinopse": "O jovem programador Thomas Anderson \u00e9 atormentado por estranhos pesadelos em que est\u00e1 sempre conectado por cabos a um imenso sistema de computadores do futuro."
+        },
+        {
+            "Titulo": "A Fuga das Galinhas",
+            "AnoLancamento": 2000,
+            "ElencoPrincipal": [
+                "Vozes de Julia Sawalha",
+                "Vozes de Mel Gibson"
+            ],
+            "Tipo": "Anima\u00e7\u00e3o, Com\u00e9dia",
+            "Sinopse": "Galinhas de uma fazenda planejam uma fuga ousada para evitar serem transformadas em tortas de frango."
+        },
+        {
+            "Titulo": "Homem-Aranha 1",
+            "AnoLancamento": 2002,
+            "ElencoPrincipal": [
+                "Tobey Maguire",
+                "Kirsten Dunst",
+                "Willem Dafoe"
+            ],
+            "Tipo": "A\u00e7\u00e3o, Aventura",
+            "Sinopse": "Ap\u00f3s ser picado por uma aranha geneticamente modificada, um jovem t\u00edmido ganha superpoderes e se torna o Homem-Aranha."
+        }
+    ],
+    "Livros": [
+        {
+            "Titulo": "Essencialismo",
+            "Autor": "Greg McKeown",
+            "AnoLancamento": 2014,
+            "Tipo": "N\u00e3o-fic\u00e7\u00e3o, Autoajuda",
+            "NumeroPaginas": 272
+        },
+        {
+            "Titulo": "A Revolu\u00e7\u00e3o dos Bichos",
+            "Autor": "George Orwell",
+            "AnoLancamento": 1945,
+            "Tipo": "Fic\u00e7\u00e3o, S\u00e1tira Pol\u00edtica",
+            "NumeroPaginas": 112
+        },
+        {
+            "Titulo": "O Mundo de Sofia",
+            "Autor": "Jostein Gaarder",
+            "AnoLancamento": 1991,
+            "Tipo": "Filosofia, Romance",
+            "NumeroPaginas": 560
+        }
+    ],
+    "Comidas": [
+        {
+            "Nome": "Frango \u00e0 Parmegiana",
+            "Ingredientes": [
+                "Peito de frango",
+                "Farinha de trigo",
+                "Ovos",
+                "Farinha de rosca",
+                "Molho de tomate",
+                "Queijo mu\u00e7arela",
+                "\u00d3leo para fritar",
+                "Sal e pimenta"
+            ]
+        },
+        {
+            "Nome": "Pudim de Leite Condensado",
+            "Ingredientes": [
+                "Leite condensado",
+                "Leite",
+                "Ovos",
+                "A\u00e7\u00facar para a calda"
+            ]
+        },
+        {
+            "Nome": "Bolo de Cenoura",
+            "Ingredientes": [
+                "Cenouras",
+                "Farinha de trigo",
+                "A\u00e7\u00facar",
+                "\u00d3leo",
+                "Ovos",
+                "Fermento em p\u00f3"
+            ]
+        }
+    ]
+}

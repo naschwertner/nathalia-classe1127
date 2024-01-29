@@ -1,0 +1,69 @@
+Filmes:
+- Titulo: Matrix
+  AnoLancamento: 1999
+  ElencoPrincipal:
+  - Keanu Reeves
+  - Laurence Fishburne
+  - Carrie-Anne Moss
+  Tipo: "Aventura, Fic\xE7\xE3o Cient\xEDfica"
+  Sinopse: "O jovem programador Thomas Anderson \xE9 atormentado por estranhos pesadelos\
+    \ em que est\xE1 sempre conectado por cabos a um imenso sistema de computadores\
+    \ do futuro."
+- Titulo: A Fuga das Galinhas
+  AnoLancamento: 2000
+  ElencoPrincipal:
+  - Vozes de Julia Sawalha
+  - Vozes de Mel Gibson
+  Tipo: "Anima\xE7\xE3o, Com\xE9dia"
+  Sinopse: Galinhas de uma fazenda planejam uma fuga ousada para evitar serem transformadas
+    em tortas de frango.
+- Titulo: Homem-Aranha 1
+  AnoLancamento: 2002
+  ElencoPrincipal:
+  - Tobey Maguire
+  - Kirsten Dunst
+  - Willem Dafoe
+  Tipo: "A\xE7\xE3o, Aventura"
+  Sinopse: "Ap\xF3s ser picado por uma aranha geneticamente modificada, um jovem t\xED\
+    mido ganha superpoderes e se torna o Homem-Aranha."
+Livros:
+- Titulo: Essencialismo
+  Autor: Greg McKeown
+  AnoLancamento: 2014
+  Tipo: "N\xE3o-fic\xE7\xE3o, Autoajuda"
+  NumeroPaginas: 272
+- Titulo: "A Revolu\xE7\xE3o dos Bichos"
+  Autor: George Orwell
+  AnoLancamento: 1945
+  Tipo: "Fic\xE7\xE3o, S\xE1tira Pol\xEDtica"
+  NumeroPaginas: 112
+- Titulo: O Mundo de Sofia
+  Autor: Jostein Gaarder
+  AnoLancamento: 1991
+  Tipo: Filosofia, Romance
+  NumeroPaginas: 560
+Comidas:
+- Nome: "Frango \xE0 Parmegiana"
+  Ingredientes:
+  - Peito de frango
+  - Farinha de trigo
+  - Ovos
+  - Farinha de rosca
+  - Molho de tomate
+  - "Queijo mu\xE7arela"
+  - "\xD3leo para fritar"
+  - Sal e pimenta
+- Nome: Pudim de Leite Condensado
+  Ingredientes:
+  - Leite condensado
+  - Leite
+  - Ovos
+  - "A\xE7\xFAcar para a calda"
+- Nome: Bolo de Cenoura
+  Ingredientes:
+  - Cenouras
+  - Farinha de trigo
+  - "A\xE7\xFAcar"
+  - "\xD3leo"
+  - Ovos
+  - "Fermento em p\xF3"
